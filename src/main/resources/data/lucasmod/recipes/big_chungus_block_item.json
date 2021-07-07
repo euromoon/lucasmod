@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+      "xxx",
+      "xax",
+      "xxx"
+  ],
+  "key":
+  {
+      "x":
+      {
+          "item": "minecraft:cobblestone"
+      },
+      "a":
+      {
+          "item": "minecraft:beef"
+      }
+  },
+  "result":
+  {
+      "item": "lucasmod:big_chungus_block_item",
+      "count": 1
+  }
+}

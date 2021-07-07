@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "lucasmod:whatsapp_ore_item"
+  },
+  "result": "lucasmod:whatsapp_ingot",
+  "experience": 1.4,
+  "cookingtime": 200
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "lucasmod:block/big_chungus_block"
+    }
+}
